@@ -1,0 +1,6 @@
+{
+  "name": "Charlie's Spine Klinic",
+  "description": "Responsive spine and musculoskeletal physiotherapy appointment booking & clinic management system for Dr. Charles P. Joseph, PT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
